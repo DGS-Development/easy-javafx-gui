@@ -48,7 +48,7 @@ Add the dependency.
 <dependency>
     <groupId>eu.dgs-development</groupId>
     <artifactId>easy-javafx-gui</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>main-SNAPSHOT</version>
 </dependency>
 ```
 
@@ -68,6 +68,6 @@ Add the dependency.
 
 ```text
 dependencies {
-    implementation 'eu.dgs-development:easy-javafx-gui:1.0.0-SNAPSHOT'
+    implementation 'eu.dgs-development:easy-javafx-gui:main-SNAPSHOT'
 }
 ```
