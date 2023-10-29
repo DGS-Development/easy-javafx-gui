@@ -2,6 +2,9 @@
 
 A Java library that helps you to comfortably create JavaFX applications.
 
+>**Warning** ⚠️   
+>This project is still under construction and "work-in-progress". 
+
 ## Features 📦
 
 * Lightweight library with minimal dependencies ("sl4j-api" and "classgraph")
@@ -17,6 +20,10 @@ It is recommended to read the documentation in the following order.
 * [Lifecycle 🔁](https://github.com/DGS-Development/easy-javafx-gui/blob/main/static/documentation/lifecycle/lifecycle.md)
 * [Dependency-Injection 🔎 (optional)](https://github.com/DGS-Development/easy-javafx-gui/blob/main/static/documentation/dependency-injection/dependency-injection.md)
 * [Theme manager 🎨 (optional)](https://github.com/DGS-Development/easy-javafx-gui/blob/main/static/documentation/theme-manager/theme-manager.md)
+
+## Requirements ☑️
+
+* You need a Java 21 JDK to use this library (it is highly recommended to use the [Bellsoft Liberica JDK](https://bell-sw.com/pages/downloads/), which already includes JavaFX)
 
 ## Installation 🔨
 
@@ -41,7 +48,7 @@ Add the dependency.
 <dependency>
     <groupId>eu.dgs-development</groupId>
     <artifactId>easy-javafx-gui</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
 
