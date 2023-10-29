@@ -68,6 +68,6 @@ Add the dependency.
 
 ```text
 dependencies {
-    implementation 'eu.dgs-development:easy-javafx-gui:1.0.0'
+    implementation 'eu.dgs-development:easy-javafx-gui:1.0.0-SNAPSHOT'
 }
 ```
