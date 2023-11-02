@@ -2,7 +2,7 @@
 
 A Java library that helps you to comfortably create JavaFX applications.
 
-If you want to create a JavaFX-project from scratch, it ts recommended to use the [easy-javafx-gui-quickstart](https://dgs-development.github.io/easy-javafx-gui-quickstart/)-website to create a Maven-project.
+If you want to create a JavaFX-project from scratch, it is recommended to use the [easy-javafx-gui-quickstart](https://dgs-development.github.io/easy-javafx-gui-quickstart/)-website to create a Maven-project.
 
 >**Warning** ⚠️   
 >This project is still under construction and "work-in-progress". 
